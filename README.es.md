@@ -22,6 +22,7 @@ Descarga el boilerplate usando Git:
 $ git clone https://github.com/4GeeksAcademy/react-hello.git
 $ cd react-hello
 ```
+
 ## ¡Publica tu sitio web!
 
 Este boilerplate es 100% compatible con los servicios de alojamiento gratuitos [GitHub Pages](https://pages.github.com/) y [Vercel](https://vercel.com/).
@@ -37,5 +38,3 @@ Solo toma 2 minutos desplegarlo, [haz clic aquí para comenzar el proceso](https
 
 Esta plantilla fue creada como parte del [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) de 4Geeks Academy por [Alejandro Sánchez](https://twitter.com/alesanchezr) y otros contribuyentes.  
 Descubre más sobre nuestro [Curso de Desarrollo Full Stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) y [Bootcamp de Ciencia de Datos](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
-
-

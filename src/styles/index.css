@@ -1,11 +1,55 @@
-/* 
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    height: 100vh;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.palo-caja {
+    width: 16px;
+    height: 150px;
+    background: #333;
+    margin: 0 auto;
+}
 
-*/
+.luces-caja {
+    width: 120px;
+    background: #222;
+    border-radius: 10px;
+    padding: 15px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 0 auto;
+}
+
+.luces-caja div {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #555;
+}
+
+
+.luz-roja {
+    background: #ff0000;
+    
+}
+
+
+.luz-amarilla {
+    background: #ffff00;
+    
+}
+
+
+.luz-verde {
+    background: #00ff00;
+    
+}
+
+.luz-encendida {
+    box-shadow: 0px 0px 50px 20px rgb(219, 241, 190) ;
+}
